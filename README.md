@@ -20,3 +20,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@maciteljibins?si=idiQ5FCFLEzizU9n)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sketchwarepro/257833)
+
+
+![Öğrenmekten Asla Çekinmem](https://img.shields.io/badge/Öğrenmekten%20Asla%20Çekinmem-_-?style=for-the-badge&logoColor=white&labelColor=black&color=red)
