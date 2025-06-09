@@ -12,3 +12,5 @@
 - Social Media
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@maciteljibins?si=idiQ5FCFLEzizU9n)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sketchwarepro/257833)
