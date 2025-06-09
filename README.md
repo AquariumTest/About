@@ -22,4 +22,15 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sketchwarepro/257833)
 
 
-<img src="data:image/svg+xml;utf8,<svg width='300' height='50' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='red-black' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='%23ff0000'/><stop offset='100%' stop-color='%23000000'/></linearGradient></defs><rect width='300' height='50' rx='12' fill='url(%23red-black)' /><text x='150' y='32' font-family='Arial, Helvetica, sans-serif' font-size='20' fill='%23fff' font-weight='bold' text-anchor='middle'>Never Afraid to Learn</text></svg>" alt="Never Afraid to Learn Badge"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="30">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="250" height="30" rx="5" fill="url(#grad1)" />
+  <text x="125" y="20" font-family="Verdana" font-size="16" fill="#fff" text-anchor="middle">
+    Never Afraid to Learn
+  </text>
+</svg>
