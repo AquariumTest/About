@@ -6,7 +6,7 @@
 
 - My Favorite Anime
 
-[![Naruto](https://img.shields.io/badge/Efsane%20Anime-Naruto-blue?style=for-the-badge&logo=naruto&logoColor=white)](https://naruto.fandom.com/)
+[![Naruto](https://img.shields.io/badge/Best%20Anime-Naruto-blue?style=for-the-badge&logo=naruto&logoColor=white)](https://naruto.fandom.com/)
 
 
 - Social Media
