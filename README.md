@@ -22,5 +22,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sketchwarepro/257833)
 
 
-![Suriye Bayrağı](https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg)
-
