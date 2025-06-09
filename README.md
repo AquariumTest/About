@@ -22,3 +22,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sketchwarepro/257833)
 
 
+
+        <div style="display: inline-block;"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Edward-NewGate-KOC.Edward-NewGate-KOC">
+        </div>
+
