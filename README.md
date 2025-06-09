@@ -1,8 +1,12 @@
 - I Study To This Languageges
 
-[![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+
+- I Want Learn
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 - My Favorite Anime
 
