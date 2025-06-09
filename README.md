@@ -15,7 +15,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sketchwarepro/257833)
 
-
-[![Madara Uchiha](https://img.shields.io/badge/Madara%20Uchiha-Madara%20Mods-red?style=for-the-badge&logoColor=white)](https://github.com/AquariumTest)
-
 [![Madara Uchiha](https://img.shields.io/badge/Madara%20Uchiha-Madara%20Mods-red?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/AquariumTest)
